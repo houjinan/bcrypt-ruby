@@ -1,4 +1,4 @@
-3.1.17 Mar 14 2022
+3.0.1 Mar 14 2022
 - Fix regex in validators to use \A and \z instead of ^ and $ [GH #121]
 - Truncate secrets greater than 72 bytes in hash_secret [GH #255]
 - Assorted test and doc improvements
